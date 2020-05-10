@@ -1,0 +1,15 @@
+.appBlock {
+    width: 1070px;
+    height: 500px;
+    display: flex;
+}
+
+.main {
+    width: 1350px;
+    height: 650px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F7;
+}
